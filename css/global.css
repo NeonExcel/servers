@@ -265,6 +265,7 @@ section:not(#header) .content {
 }
 
 /*Hyperlink*/
+<style>
 a:link {
   color: cyan;
   background-color: transparent;
@@ -285,3 +286,4 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
+</style>
