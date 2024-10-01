@@ -263,3 +263,25 @@ section:not(#header) .content {
     text-align: center;
   }
 }
+
+/*Hyperlink*/
+a:link {
+  color: cyan;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
